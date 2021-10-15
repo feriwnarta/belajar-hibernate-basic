@@ -1,2 +1,6 @@
-package com.ferdev.hibernate.dao;public class PersonDao {
+package com.ferdev.hibernate.dao;
+
+
+public class PersonDao {
+
 }
